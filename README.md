@@ -5,7 +5,7 @@ const REDzSEA = {
     pronouns: "He" | "Him",
     code: ["PHP", "JavaScript", "TypeScript", "Lua"],
     interests: ["Web Development", "Scripting", "Automation"],
-    projects: ["TruemoneyWallet-VouncherCode", "Angpao", "TruemoneyQr", "popthai.w3spaces.com"],
+    projects: ["TruemoneyWallet-VouncherCode", "Angpao", "TruemoneyQr"],
     hireable: true,
     contact: {
         email: "cmusicdark@gmail.com"
